@@ -1,0 +1,15 @@
+---
+title: "my_first_quatro"
+author: "Lord Lamington"
+date: "2025-07-05"
+output: html_document
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+# Plots with ggplot 2
+
+We are going to make plots in R and it's going to be amazing.
+
